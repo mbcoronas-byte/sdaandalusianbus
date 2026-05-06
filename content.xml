@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507000441LNSCPR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507000441IO7RVK</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA. Hop-on hop-off bus in Andalusia!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Belén Vázquez Coronas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto en formato SdA orientado al desarrollo de la competencia comunicativa en lengua inglesa a través de un viaje virtual por Andalucía. Actividad contextualizada dentro del curso de formación en Competencia Digital Docente nivel B2.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778082436811</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777917870408-9mt0mihok</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Acerca del proyecto (Tarea 2.1.)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Acerca del proyecto (Tarea 2.1.)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Acerca del proyecto (Tarea 2.1.)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777917870408-9mt0mihok</odePageId>
+      <odeBlockId>block-1777918746765-030bs3y5q</odeBlockId>
+      <blockName>Datos clave del proyecto</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917870408-9mt0mihok</odePageId>
+          <odeBlockId>block-1777918746765-030bs3y5q</odeBlockId>
+          <odeIdeviceId>idevice-1777918746763-1230h5er0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1270px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_1bzlyx1bzlyx1bzl.png" title="Hop-on hop-off bus in Andalusia!" width="1270" height="832" alt="Mapa de Andalucía con autobús turístico. " />
+<figcaption class="figcaption"><span class="title"><em>Gemini (IA de Google). Project. Hop-on hop-off bus in Andalusia.</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Generada mediante IA (Gemini)-Uso educativo permitido.)</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>Título:</strong> Hop-on Hop-off Bus in Andalusia: Travel Diaries</p>
+<p><strong>Nivel al que va dirigido:</strong> 6º Educación Primaria.</p>
+<p><strong>Área/Materia:</strong> Lengua Extranjera Inglés.</p>
+<p><strong>Idioma:</strong> Inglés.</p>
+<p style="text-align: center;"><em>Let’s travel through Andalusia in English!</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777918746763-1230h5er0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1270px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_1bzlyx1bzlyx1bzl.png\" title=\"Hop-on hop-off bus in Andalusia!\" width=\"1270\" height=\"832\" alt=\"Mapa de Andalucía con autobús turístico. \" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Gemini (IA de Google). Project. Hop-on hop-off bus in Andalusia.</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Generada mediante IA (Gemini)-Uso educativo permitido.)</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><strong>Título:</strong> Hop-on Hop-off Bus in Andalusia: Travel Diaries</p>\n<p><strong>Nivel al que va dirigido:</strong> 6º Educación Primaria.</p>\n<p><strong>Área/Materia:</strong> Lengua Extranjera Inglés.</p>\n<p><strong>Idioma:</strong> Inglés.</p>\n<p style=\"text-align: center;\"><em>Let’s travel through Andalusia in English!</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777917870408-9mt0mihok</odePageId>
+      <odeBlockId>block-1777919334587-fol2buqp6</odeBlockId>
+      <blockName>Centro de interés o temática, y objetivos</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917870408-9mt0mihok</odePageId>
+          <odeBlockId>block-1777919334587-fol2buqp6</odeBlockId>
+          <odeIdeviceId>idevice-1777919334585-bq6jhz7jn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Con motivo de la celebración del día de Andalucía se plantea la realización de este proyecto para ser realizado en las semanas previas a esta celebración. El proyecto se centra en dos centros de interés ya que por un lado pretende acercar la aspectos culturales de la comunidad andaluza a los alumnos y alumnas, a la vez que se introducen y trabajan contenidos de gramática. En concreto nos basamos en un autobús turístico imaginario que viaja por Andalucía, aprovechando para introducir este transporte tan curioso al alumnado, nos imaginamos que vamos haciendo paradas en distintos puntos de la comunidad. Los alumnos y alumnas deben imaginarse que los han visitado y que se disponen, como producto final, a escribir un diario de viaje de su visita. Con ello pretendo que el alumnado aborde la gramática relativa al pasado simple de los verbos regulares e irregulares, haciendo uso de la afirmación, negación e interrogación, si el texto lo permite. </p>
+<p style="text-align: justify;"><br />A través del presente proyecto pretendo que mis alumnos sean capaces de:</p>
+<ul>
+<li style="text-align: justify;">Producir pequeños textos escritos en los cuales hagan uso del pasado simple con verbos regulares e irregulares.</li>
+<li style="text-align: justify;">Desarrollar la comprensión lectora y auditiva del alumnado al escuchar las explicaciones presenciales, así como, haciendo uso de vídeos con preguntas incrustadas de EdPuzzle. <br /></li>
+<li style="text-align: justify;">Fomentar la expresión escrita y la creatividad del alumnado elaborando un diario de viaje con párrafos estructurados y en base a un modelo dado. <br /></li>
+<li style="text-align: justify;">Promover el trabajo colaborativo al realizar el producto final en grupos de trabajo. <br /></li>
+<li style="text-align: justify;">Hacer uso de recursos digitales motivadores.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777919334585-bq6jhz7jn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Con motivo de la celebración del día de Andalucía se plantea la realización de este proyecto para ser realizado en las semanas previas a esta celebración. El proyecto se centra en dos centros de interés ya que por un lado pretende acercar la aspectos culturales de la comunidad andaluza a los alumnos y alumnas, a la vez que se introducen y trabajan contenidos de gramática. En concreto nos basamos en un autobús turístico imaginario que viaja por Andalucía, aprovechando para introducir este transporte tan curioso al alumnado, nos imaginamos que vamos haciendo paradas en distintos puntos de la comunidad. Los alumnos y alumnas deben imaginarse que los han visitado y que se disponen, como producto final, a escribir un diario de viaje de su visita. Con ello pretendo que el alumnado aborde la gramática relativa al pasado simple de los verbos regulares e irregulares, haciendo uso de la afirmación, negación e interrogación, si el texto lo permite. </p>\n<p style=\"text-align: justify;\"><br />A través del presente proyecto pretendo que mis alumnos sean capaces de:</p>\n<ul>\n<li style=\"text-align: justify;\">Producir pequeños textos escritos en los cuales hagan uso del pasado simple con verbos regulares e irregulares.</li>\n<li style=\"text-align: justify;\">Desarrollar la comprensión lectora y auditiva del alumnado al escuchar las explicaciones presenciales, así como, haciendo uso de vídeos con preguntas incrustadas de EdPuzzle. <br /></li>\n<li style=\"text-align: justify;\">Fomentar la expresión escrita y la creatividad del alumnado elaborando un diario de viaje con párrafos estructurados y en base a un modelo dado. <br /></li>\n<li style=\"text-align: justify;\">Promover el trabajo colaborativo al realizar el producto final en grupos de trabajo. <br /></li>\n<li style=\"text-align: justify;\">Hacer uso de recursos digitales motivadores.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777917870408-9mt0mihok</odePageId>
+      <odeBlockId>block-1777919515329-kmuandizx</odeBlockId>
+      <blockName>Relación con la rutina de pensamiento (Tarea 1.1.)</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917870408-9mt0mihok</odePageId>
+          <odeBlockId>block-1777919515329-kmuandizx</odeBlockId>
+          <odeIdeviceId>idevice-1777919515328-9kg5ifq5n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Teniendo en cuenta lo expuesto en la rutina de pensamiento, el proyecto que deseo realizar está directamente relacionado con la importancia de motivar al alumnado mediante el uso de metodologías activas y recursos digitales, así como con la necesidad de asegurarme de que todos los alumnos y alumnas puedan participar y realizar las actividades, un problema que ya identifiqué en mi práctica anterior y que se reflejó en la rutina de pensamiento. </p>
+<p style="text-align: justify;">A lo largo del proyecto incluiré el uso de distintos recursos digitales. Para la selección de los mismos tendré en cuenta el nivel de competencia digital de mi alumnado actual, la posibilidad que tienen de acceder a recursos digitales en sus casas, y finalmente, los recursos tecnológicos disponibles en el aula.</p>
+<p style="text-align: justify;">Aunque en este curso de competencia digital no se pone límite a la creatividad, mi intención es diseñar un proyecto realista y viable para ser aplicado en mi contexto escolar actual. Es posible que no se incluyan los recursos digitales más complejos y/o originales, pero se incluirán aquellos que estén adaptados a las necesidades y capacidades de mis alumnos y alumnas, asegurando de esta manera, la participación efectiva de todos ellos en el proyecto. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777919515328-9kg5ifq5n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Teniendo en cuenta lo expuesto en la rutina de pensamiento, el proyecto que deseo realizar está directamente relacionado con la importancia de motivar al alumnado mediante el uso de metodologías activas y recursos digitales, así como con la necesidad de asegurarme de que todos los alumnos y alumnas puedan participar y realizar las actividades, un problema que ya identifiqué en mi práctica anterior y que se reflejó en la rutina de pensamiento. </p>\n<p style=\"text-align: justify;\">A lo largo del proyecto incluiré el uso de distintos recursos digitales. Para la selección de los mismos tendré en cuenta el nivel de competencia digital de mi alumnado actual, la posibilidad que tienen de acceder a recursos digitales en sus casas, y finalmente, los recursos tecnológicos disponibles en el aula.</p>\n<p style=\"text-align: justify;\">Aunque en este curso de competencia digital no se pone límite a la creatividad, mi intención es diseñar un proyecto realista y viable para ser aplicado en mi contexto escolar actual. Es posible que no se incluyan los recursos digitales más complejos y/o originales, pero se incluirán aquellos que estén adaptados a las necesidades y capacidades de mis alumnos y alumnas, asegurando de esta manera, la participación efectiva de todos ellos en el proyecto. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777917901418-p8bjec4fs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Seguridad en red (Tarea 2.3.)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Seguridad en red (Tarea 2.3.)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Seguridad en red (Tarea 2.3.)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777917901418-p8bjec4fs</odePageId>
+      <odeBlockId>block-1777919919397-ukgrh9vex</odeBlockId>
+      <blockName>Protección de datos en red</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917901418-p8bjec4fs</odePageId>
+          <odeBlockId>block-1777919919397-ukgrh9vex</odeBlockId>
+          <odeIdeviceId>idevice-1777919919395-5chiwprmg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Internet es un gran lugar para aprender y compartir, pero recuerda: tu seguridad es lo más importante. Échale un vistazo a la siguiente infografía. Si tienes dudas, pregunta en clase. </p>
+<figure class="exe-figure position-center" style="width: 572px;"><img src="{{context_path}}/content/resources/Infografía curso. .png" width="572" height="1024" alt="Seguridad en red. " />
+<figcaption class="figcaption"><span class="author">María Belén Vázquez Coronas. </span>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777919919395-5chiwprmg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Internet es un gran lugar para aprender y compartir, pero recuerda: tu seguridad es lo más importante. Échale un vistazo a la siguiente infografía. Si tienes dudas, pregunta en clase. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 572px;\"><img src=\"{{context_path}}/content/resources/Infografía curso. .png\" width=\"572\" height=\"1024\" alt=\"Seguridad en red. \" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Belén Vázquez Coronas. </span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777917913013-s03l44e9p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Producto final (Tarea 4.1.)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final (Tarea 4.1.)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Producto final (Tarea 4.1.)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777917913013-s03l44e9p</odePageId>
+      <odeBlockId>block-1778000577139-fa3cb126u</odeBlockId>
+      <blockName>¿Qué vamos a crear con este proyecto?</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917913013-s03l44e9p</odePageId>
+          <odeBlockId>block-1778000577139-fa3cb126u</odeBlockId>
+          <odeIdeviceId>idevice-1778000577138-wklbug66g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">¡Nos vamos de viaje por Andalucía! 🚌</p>
+<p style="text-align: justify;">En este proyecto os convertiréis en <strong>viajeros y viajeras</strong> que recorren Andalucía en un autobús turístico “Hop-on Hop-off”. En cada parada descubriréis nuevos lugares, cultura y experiencias.</p>
+<figure class="exe-figure position-center" style="width: 1408px; text-align: justify;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_vtle4ovtle4ovtle.png" width="1408" height="768" alt="Alumnos trabajando en grupo. " />
+<figcaption class="figcaption"><span class="title"><em>Gemini (IA de Google). Trabajo en grupo. Diarios de viaje. </em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Generada mediante IA (Gemini)-Uso educativo permitido. </span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">🌍 <strong>¿Cuál es vuestro reto?</strong><br />En grupos, tendréis que crear un diario de viaje digital en el que contaréis vuestra aventura.</p>
+<p style="text-align: justify;">Imaginad que habéis visitado una ciudad de Andalucía…<br />¿Qué hicisteis? ¿Qué visteis? ¿Cómo os sentisteis?</p>
+<p style="text-align: justify;"> <br />💻<strong> ¿Cómo lo vais a hacer?</strong><br />Vais a crear vuestro diario usando Google Presentaciones, trabajando en equipo y organizando la información en diferentes diapositivas.</p>
+<p style="text-align: justify;"> <br />📝 <strong>¿Qué debe incluir vuestro diario?</strong><br />Vuestro diario tendrá estas partes:</p>
+<p style="text-align: justify;">Arrival → ¿Cómo llegasteis? ¿Cuál fue vuestra primera impresión?<br />What we saw → ¿Qué lugares visitasteis?<br />What we did → ¿Qué hicisteis allí?<br />Culture and feelings → ¿Qué comisteis? ¿Cómo os sentisteis?<br />Our opinion → ¿Os gustó el viaje? ¿Por qué?<br /> <br />🗣️ <strong>¿Qué tenéis que usar?</strong><br />El past simple (pasado simple)<br />Vocabulario sobre viajes<br />Frases sencillas y claras<br /> <br />🤝 <strong>¿Cómo trabajaréis?</strong><br />En grupo<br />Ayudándoos unos a otros<br />Compartiendo ideas<br />Organizándoos bien<br /> <br />⭐ <strong>Objetivo final</strong><br />Crear un diario de viaje bonito, claro y bien organizado, que podréis compartir con vuestros compañeros y compañeras. Lo diseñaréis utilizando la herramienta llamada<strong> Google Presentaciones. <br /><br />📢 Compartir<br /></strong>Una vez que tengáis lista vuestra presentación deberéis añadir un enlace a la misma en un muro de <strong>Padlet</strong>. Allí conseguiremos recolectar todas las presentaciones de los diarios de viaje de los grupos de 6ºA, 6ºB y 6ºC. El enlace al muro de Padlet lo enviaremos a cada grupo del colegio para que puedan visualizar vuestras presentaciones.<strong></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778000577138-wklbug66g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">¡Nos vamos de viaje por Andalucía! 🚌</p>\n<p style=\"text-align: justify;\">En este proyecto os convertiréis en <strong>viajeros y viajeras</strong> que recorren Andalucía en un autobús turístico “Hop-on Hop-off”. En cada parada descubriréis nuevos lugares, cultura y experiencias.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1408px; text-align: justify;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_vtle4ovtle4ovtle.png\" width=\"1408\" height=\"768\" alt=\"Alumnos trabajando en grupo. \" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Gemini (IA de Google). Trabajo en grupo. Diarios de viaje. </em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Generada mediante IA (Gemini)-Uso educativo permitido. </span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">🌍 <strong>¿Cuál es vuestro reto?</strong><br />En grupos, tendréis que crear un diario de viaje digital en el que contaréis vuestra aventura.</p>\n<p style=\"text-align: justify;\">Imaginad que habéis visitado una ciudad de Andalucía…<br />¿Qué hicisteis? ¿Qué visteis? ¿Cómo os sentisteis?</p>\n<p style=\"text-align: justify;\"> <br />💻<strong> ¿Cómo lo vais a hacer?</strong><br />Vais a crear vuestro diario usando Google Presentaciones, trabajando en equipo y organizando la información en diferentes diapositivas.</p>\n<p style=\"text-align: justify;\"> <br />📝 <strong>¿Qué debe incluir vuestro diario?</strong><br />Vuestro diario tendrá estas partes:</p>\n<p style=\"text-align: justify;\">Arrival → ¿Cómo llegasteis? ¿Cuál fue vuestra primera impresión?<br />What we saw → ¿Qué lugares visitasteis?<br />What we did → ¿Qué hicisteis allí?<br />Culture and feelings → ¿Qué comisteis? ¿Cómo os sentisteis?<br />Our opinion → ¿Os gustó el viaje? ¿Por qué?<br /> <br />🗣️ <strong>¿Qué tenéis que usar?</strong><br />El past simple (pasado simple)<br />Vocabulario sobre viajes<br />Frases sencillas y claras<br /> <br />🤝 <strong>¿Cómo trabajaréis?</strong><br />En grupo<br />Ayudándoos unos a otros<br />Compartiendo ideas<br />Organizándoos bien<br /> <br />⭐ <strong>Objetivo final</strong><br />Crear un diario de viaje bonito, claro y bien organizado, que podréis compartir con vuestros compañeros y compañeras. Lo diseñaréis utilizando la herramienta llamada<strong> Google Presentaciones. <br /><br />📢 Compartir<br /></strong>Una vez que tengáis lista vuestra presentación deberéis añadir un enlace a la misma en un muro de <strong>Padlet</strong>. Allí conseguiremos recolectar todas las presentaciones de los diarios de viaje de los grupos de 6ºA, 6ºB y 6ºC. El enlace al muro de Padlet lo enviaremos a cada grupo del colegio para que puedan visualizar vuestras presentaciones.<strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777917913013-s03l44e9p</odePageId>
+      <odeBlockId>block-1778001141143-v487wgivt</odeBlockId>
+      <blockName>¿Por qué utilizamos Google Presentaciones? (Tarea 4.1.)</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917913013-s03l44e9p</odePageId>
+          <odeBlockId>block-1778001141143-v487wgivt</odeBlockId>
+          <odeIdeviceId>idevice-1778001141142-acqr9n43x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Para la elaboración del producto final de este proyecto, se ha decidido utilizar <strong>Google Presentaciones</strong> como herramienta principal.</p>
+<p style="text-align: justify;">Aunque inicialmente se consideró el uso de Genially por su atractivo visual e interactividad, tras analizar el contexto del aula, las características del alumnado y el tiempo disponible, se ha optado por una herramienta más accesible, funcional y adecuada.</p>
+<p style="text-align: justify;">Esta decisión se basa en los siguientes motivos:</p>
+<ul style="text-align: justify;">
+<li><strong>Seguridad: </strong>permite el acceso mediante las cuentas corporativas del centro, garantizando la protección de los datos del alumnado.<br /></li>
+<li><strong>Simplicidad y accesibilidad:</strong> es una herramienta intuitiva, adecuada para alumnado de 6º de Primaria con una competencia digital básica.<br /></li>
+<li><strong>Trabajo colaborativo:</strong> facilita que el alumnado trabaje en grupo de forma simultánea.<br /></li>
+<li><strong>Flexibilidad: </strong>permite trabajar tanto en línea como sin conexión.<br /></li>
+<li><strong>Enfoque pedagógico:</strong> evita sobrecargar al alumnado con aspectos técnicos y permite centrarse en el objetivo principal del proyecto: la producción escrita en pasado simple.<br />Además, el uso de presentaciones permite estructurar de forma clara el diario de viaje en diferentes apartados (Arrival, What we saw, What we did, Culture and feelings y Our opinion), facilitando la organización de la información y el desarrollo de la tarea.</li>
+</ul>
+<p style="text-align: justify;">En definitiva, se trata de una herramienta que se adapta mejor al contexto educativo, priorizando la seguridad, la funcionalidad y el aprendizaje del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001141142-acqr9n43x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para la elaboración del producto final de este proyecto, se ha decidido utilizar <strong>Google Presentaciones</strong> como herramienta principal.</p>\n<p style=\"text-align: justify;\">Aunque inicialmente se consideró el uso de Genially por su atractivo visual e interactividad, tras analizar el contexto del aula, las características del alumnado y el tiempo disponible, se ha optado por una herramienta más accesible, funcional y adecuada.</p>\n<p style=\"text-align: justify;\">Esta decisión se basa en los siguientes motivos:</p>\n<ul style=\"text-align: justify;\">\n<li><strong>Seguridad: </strong>permite el acceso mediante las cuentas corporativas del centro, garantizando la protección de los datos del alumnado.<br /></li>\n<li><strong>Simplicidad y accesibilidad:</strong> es una herramienta intuitiva, adecuada para alumnado de 6º de Primaria con una competencia digital básica.<br /></li>\n<li><strong>Trabajo colaborativo:</strong> facilita que el alumnado trabaje en grupo de forma simultánea.<br /></li>\n<li><strong>Flexibilidad: </strong>permite trabajar tanto en línea como sin conexión.<br /></li>\n<li><strong>Enfoque pedagógico:</strong> evita sobrecargar al alumnado con aspectos técnicos y permite centrarse en el objetivo principal del proyecto: la producción escrita en pasado simple.<br />Además, el uso de presentaciones permite estructurar de forma clara el diario de viaje en diferentes apartados (Arrival, What we saw, What we did, Culture and feelings y Our opinion), facilitando la organización de la información y el desarrollo de la tarea.</li>\n</ul>\n<p style=\"text-align: justify;\">En definitiva, se trata de una herramienta que se adapta mejor al contexto educativo, priorizando la seguridad, la funcionalidad y el aprendizaje del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777917913013-s03l44e9p</odePageId>
+      <odeBlockId>block-1778078515957-il0uflaat</odeBlockId>
+      <blockName>📢 Difundir los diarios de viaje en el colegio: Padlet</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917913013-s03l44e9p</odePageId>
+          <odeBlockId>block-1778078515957-il0uflaat</odeBlockId>
+          <odeIdeviceId>idevice-1778078515956-ro4h3pjw7</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mvazcor609/travel-diaries-6th-grade-f2ajzfsr7tbu8hmx" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777999087179-q6re7wlsk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Repositorios de recursos (Tarea 5.1.)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Repositorios de recursos (Tarea 5.1.)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Repositorios de recursos (Tarea 5.1.)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777999087179-q6re7wlsk</odePageId>
+      <odeBlockId>block-1778001858129-ovadonqy5</odeBlockId>
+      <blockName>Padlet: ¡Todo lo necesario!</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777999087179-q6re7wlsk</odePageId>
+          <odeBlockId>block-1778001858129-ovadonqy5</odeBlockId>
+          <odeIdeviceId>idevice-1778001858127-8egqxdwin</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mvazcor609/hop-on-hop-off-bus-in-andalusia-hzuvf1nfxpsxdipt" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777999087179-q6re7wlsk</odePageId>
+      <odeBlockId>block-1778001987607-69bw4849s</odeBlockId>
+      <blockName>Recursos a mano:</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777999087179-q6re7wlsk</odePageId>
+          <odeBlockId>block-1778001987607-69bw4849s</odeBlockId>
+          <odeIdeviceId>idevice-1778001987607-ifhaig2df</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Este Padlet es una herramienta muy útil para tener siempre a mano algunos recursos interesantes del proyecto. En él encontraréis: </p>
+<ul>
+<li style="text-align: justify;">Información organizada por actividades, esto es, de manera cronológica. </li>
+<li style="text-align: justify;">Se incluye: 
+<ul>
+<li>Ideas generadas en la sesión de lluvia de ideas. </li>
+<li>Vídeos útiles con preguntas incrustadas acerca de los aspectos gramaticales que vamos a trabajar. </li>
+<li>Ejercicios prácticos sobre la gramática trabajada. </li>
+<li>Material relativo al vocabulario que trabajaréis en vuestros diarios: Vídeos y un póster con ejemplos útiles.  </li>
+</ul>
+</li>
+<li style="text-align: justify;">Sobre la evaluación: encontraréis una lista de cotejo para que sepáis qué condiciones debe cumplir vuestro diario de viaje, y la rúbrica de evaluación del proyecto.<br /></li>
+<li style="text-align: justify;">Tutoriales acerca de la plataforma Edpuzzle (vídeos incrustados) y el uso de Google Presentaciones.</li>
+<li style="text-align: justify;">Un enlace directo al Padlet que utilizaréis para publicar todas vuestras presentaciones.  </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001987607-ifhaig2df","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Este Padlet es una herramienta muy útil para tener siempre a mano algunos recursos interesantes del proyecto. En él encontraréis: </p>\n<ul>\n<li style=\"text-align: justify;\">Información organizada por actividades, esto es, de manera cronológica. </li>\n<li style=\"text-align: justify;\">Se incluye: \n<ul>\n<li>Ideas generadas en la sesión de lluvia de ideas. </li>\n<li>Vídeos útiles con preguntas incrustadas acerca de los aspectos gramaticales que vamos a trabajar. </li>\n<li>Ejercicios prácticos sobre la gramática trabajada. </li>\n<li>Material relativo al vocabulario que trabajaréis en vuestros diarios: Vídeos y un póster con ejemplos útiles.  </li>\n</ul>\n</li>\n<li style=\"text-align: justify;\">Sobre la evaluación: encontraréis una lista de cotejo para que sepáis qué condiciones debe cumplir vuestro diario de viaje, y la rúbrica de evaluación del proyecto.<br /></li>\n<li style=\"text-align: justify;\">Tutoriales acerca de la plataforma Edpuzzle (vídeos incrustados) y el uso de Google Presentaciones.</li>\n<li style=\"text-align: justify;\">Un enlace directo al Padlet que utilizaréis para publicar todas vuestras presentaciones.  </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777999087179-q6re7wlsk</odePageId>
+      <odeBlockId>block-1778079032057-1kyqzpuko</odeBlockId>
+      <blockName>Herramientas digitales para el docente: Symbaloo</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777999087179-q6re7wlsk</odePageId>
+          <odeBlockId>block-1778079032057-1kyqzpuko</odeBlockId>
+          <odeIdeviceId>idevice-1778079032056-ng929zq3v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAAbC_mtsAA41-5ENRKw==" target="_blank" title="" rel="noopener"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-06 165020.png" width="918" height="552" alt="Symbaloo. Herramientas para el docente." /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778079032056-ng929zq3v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAAbC_mtsAA41-5ENRKw==\" target=\"_blank\" title=\"\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-06 165020.png\" width=\"918\" height=\"552\" alt=\"Symbaloo. Herramientas para el docente.\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777917907292-n80kcpmkt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Secuencia didáctica. Línea temporal (Tarea 7.1.)</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Secuencia didáctica. Línea temporal (Tarea 7.1.)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Secuencia didáctica. Línea temporal (Tarea 7.1.)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777917907292-n80kcpmkt</odePageId>
+      <odeBlockId>block-1778081033950-ig5h5042y</odeBlockId>
+      <blockName>¿Qué actividades vamos a hacer?</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917907292-n80kcpmkt</odePageId>
+          <odeBlockId>block-1778081033950-ig5h5042y</odeBlockId>
+          <odeIdeviceId>idevice-1778081033949-n50n420pf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Si queréis saber ¿Cuántas actividades vamos a realizar?, ¿Cuánto va a durar el proyecto? o ¿Cuándo vamos a utilizar los ordenadores? Podéis encontrar la respuesta en la siguiente línea temporal.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/línea del tiempo.png" alt="Línea del tiempo actividades." /><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778081033949-n50n420pf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Si queréis saber ¿Cuántas actividades vamos a realizar?, ¿Cuánto va a durar el proyecto? o ¿Cuándo vamos a utilizar los ordenadores? Podéis encontrar la respuesta en la siguiente línea temporal.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/línea del tiempo.png\" alt=\"Línea del tiempo actividades.\" /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778079365465-hvhkmk034</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Guía didáctica (Tarea 6.1.)</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Guía didáctica (Tarea 6.1.)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Guía didáctica (Tarea 6.1.)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778079365465-hvhkmk034</odePageId>
+      <odeBlockId>block-1778081325181-xx3h8ddcc</odeBlockId>
+      <blockName>Guía didáctica. Material para el docente</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778079365465-hvhkmk034</odePageId>
+          <odeBlockId>block-1778081325181-xx3h8ddcc</odeBlockId>
+          <odeIdeviceId>idevice-1778081325180-svkqfwcrl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>🎯 Descripción general:</strong><br />Este proyecto está dirigido al alumnado de Educación Primaria y tiene como objetivo desarrollar la competencia comunicativa en lengua inglesa a través de un viaje virtual por Andalucía.</p>
+<p style="text-align: justify;">A lo largo del proyecto, el alumnado trabajará el uso del pasado simple, el vocabulario relacionado con los viajes y el trabajo cooperativo mediante una secuencia de actividades progresivas.</p>
+<p style="text-align: justify;"> <br /><strong>🧠 Metodología:</strong><br />Se emplea una metodología activa y participativa, basada en:</p>
+<ul>
+<li style="text-align: justify;">Aprendizaje cooperativo.<br /></li>
+<li style="text-align: justify;">Uso de herramientas digitales.<br /></li>
+<li style="text-align: justify;">Enfoque comunicativo de la lengua inglesa.<br /></li>
+<li style="text-align: justify;">Aprendizaje basado en tareas.</li>
+</ul>
+<p>El alumnado es protagonista de su aprendizaje, participando de forma activa en todas las actividades propuestas.</p>
+<p style="text-align: justify;"> <br /><strong>🧩 Secuencia de actividades:</strong><br />El proyecto se organiza en diferentes actividades que siguen una progresión y que responden al formato de Situación de Aprendizaje. Ejemplos:</p>
+<ul>
+<li style="text-align: justify;">Activación de conocimientos previos<br /></li>
+<li style="text-align: justify;">Introducción de contenidos (past simple)<br /></li>
+<li style="text-align: justify;">Práctica guiada<br /></li>
+<li style="text-align: justify;">Producción final (diario de viaje)</li>
+<li style="text-align: justify;">Difusión y reflexión</li>
+</ul>
+<p> <strong>📊 Evaluación:</strong></p>
+<p>La evaluación será continua y formativa, teniendo en cuenta:</p>
+<ul>
+<li style="text-align: justify;">El desarrollo de las actividades.<br /></li>
+<li style="text-align: justify;">La participación del alumnado.<br /></li>
+<li style="text-align: justify;">El producto final (diario de viaje).<br /></li>
+<li style="text-align: justify;">Se utilizarán los siguientes instrumentos:
+<ul>
+<li style="text-align: justify;">Rúbrica<br /></li>
+<li style="text-align: justify;">Checklist<br /></li>
+<li style="text-align: justify;">Observación directa</li>
+</ul>
+</li>
+</ul>
+<p><strong>🧩 Atención a la diversidad (DUA):</strong><br />El proyecto incorpora medidas de atención a la diversidad mediante:</p>
+<ul>
+<li style="text-align: justify;">Apoyos visuales y ejemplos (ver póster sobre vocabulario en Padlet).<br /></li>
+<li style="text-align: justify;">Uso de herramientas digitales accesibles.<br /></li>
+<li style="text-align: justify;">Trabajo cooperativo.<br /></li>
+<li style="text-align: justify;">Adaptación del ritmo de aprendizaje.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778081325180-svkqfwcrl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>🎯 Descripción general:</strong><br />Este proyecto está dirigido al alumnado de Educación Primaria y tiene como objetivo desarrollar la competencia comunicativa en lengua inglesa a través de un viaje virtual por Andalucía.</p>\n<p style=\"text-align: justify;\">A lo largo del proyecto, el alumnado trabajará el uso del pasado simple, el vocabulario relacionado con los viajes y el trabajo cooperativo mediante una secuencia de actividades progresivas.</p>\n<p style=\"text-align: justify;\"> <br /><strong>🧠 Metodología:</strong><br />Se emplea una metodología activa y participativa, basada en:</p>\n<ul>\n<li style=\"text-align: justify;\">Aprendizaje cooperativo.<br /></li>\n<li style=\"text-align: justify;\">Uso de herramientas digitales.<br /></li>\n<li style=\"text-align: justify;\">Enfoque comunicativo de la lengua inglesa.<br /></li>\n<li style=\"text-align: justify;\">Aprendizaje basado en tareas.</li>\n</ul>\n<p>El alumnado es protagonista de su aprendizaje, participando de forma activa en todas las actividades propuestas.</p>\n<p style=\"text-align: justify;\"> <br /><strong>🧩 Secuencia de actividades:</strong><br />El proyecto se organiza en diferentes actividades que siguen una progresión y que responden al formato de Situación de Aprendizaje. Ejemplos:</p>\n<ul>\n<li style=\"text-align: justify;\">Activación de conocimientos previos<br /></li>\n<li style=\"text-align: justify;\">Introducción de contenidos (past simple)<br /></li>\n<li style=\"text-align: justify;\">Práctica guiada<br /></li>\n<li style=\"text-align: justify;\">Producción final (diario de viaje)</li>\n<li style=\"text-align: justify;\">Difusión y reflexión</li>\n</ul>\n<p> <strong>📊 Evaluación:</strong></p>\n<p>La evaluación será continua y formativa, teniendo en cuenta:</p>\n<ul>\n<li style=\"text-align: justify;\">El desarrollo de las actividades.<br /></li>\n<li style=\"text-align: justify;\">La participación del alumnado.<br /></li>\n<li style=\"text-align: justify;\">El producto final (diario de viaje).<br /></li>\n<li style=\"text-align: justify;\">Se utilizarán los siguientes instrumentos:\n<ul>\n<li style=\"text-align: justify;\">Rúbrica<br /></li>\n<li style=\"text-align: justify;\">Checklist<br /></li>\n<li style=\"text-align: justify;\">Observación directa</li>\n</ul>\n</li>\n</ul>\n<p><strong>🧩 Atención a la diversidad (DUA):</strong><br />El proyecto incorpora medidas de atención a la diversidad mediante:</p>\n<ul>\n<li style=\"text-align: justify;\">Apoyos visuales y ejemplos (ver póster sobre vocabulario en Padlet).<br /></li>\n<li style=\"text-align: justify;\">Uso de herramientas digitales accesibles.<br /></li>\n<li style=\"text-align: justify;\">Trabajo cooperativo.<br /></li>\n<li style=\"text-align: justify;\">Adaptación del ritmo de aprendizaje.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778079365465-hvhkmk034</odePageId>
+      <odeBlockId>block-1778083087316-5hz7s6eki</odeBlockId>
+      <blockName>Elementos curriculares</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778079365465-hvhkmk034</odePageId>
+          <odeBlockId>block-1778083087316-5hz7s6eki</odeBlockId>
+          <odeIdeviceId>idevice-1778083087315-pguvwgiaj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>🔗 Relación de los elementos curriculares:</strong><br />El presente proyecto se desarrolla conforme al currículo del área de Lengua Extranjera (Inglés) para el tercer ciclo de Educación Primaria, integrando de forma coherente los criterios de evaluación, las competencias específicas, los saberes básicos y los objetivos de etapa establecidos en la normativa vigente.</p>
+<p><strong>🧠 Competencias específicas:</strong><br />El proyecto contribuye al desarrollo de las siguientes competencias específicas:</p>
+<ul>
+<li>Competencia específica 1:<br />Comprender el sentido general e información específica y predecible de textos orales, escritos y multimodales breves y sencillos, expresados de forma clara y en lengua estándar, haciendo uso de estrategias básicas y recurriendo, cuando sea necesario, a distintos tipos de apoyo.</li>
+<li>Competencia específica 2:<br />Producir textos orales y escritos breves y sencillos, de forma guiada, utilizando estructuras, léxico y recursos básicos, adecuados a la situación comunicativa.</li>
+<li>Competencia específica 3:<br />Interactuar con otras personas en situaciones comunicativas breves y sencillas, utilizando estrategias básicas de cortesía lingüística y cooperación.</li>
+<li>Competencia específica 5:<br />Desarrollar estrategias básicas que favorezcan el aprendizaje de la lengua extranjera, reflexionando sobre el propio proceso de aprendizaje.</li>
+<li>Competencia específica 6:<br />Valorar la diversidad lingüística y cultural, mostrando actitudes de respeto e interés hacia otras lenguas y culturas.</li>
+</ul>
+<p><strong>📚 Saberes básicos:</strong><br />De acuerdo con la normativa vigente, en este proyecto se trabajan los siguientes saberes básicos:</p>
+<ul>
+<li>Bloque A. Comunicación:<br />
+<ul>
+<li>Funciones comunicativas básicas adecuadas al ámbito y contexto comunicativo: describir experiencias, narrar hechos pasados, expresar opiniones.<br /></li>
+<li>Léxico de uso común relativo a experiencias personales, viajes, cultura y vida cotidiana.<br /></li>
+<li>Estructuras gramaticales básicas: uso del pasado simple (verbos regulares e irregulares), estructuras afirmativas, negativas e interrogativas.<br /></li>
+<li>Convenciones ortográficas básicas y uso adecuado de los signos de puntuación.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Bloque B. Plurilingüismo:<br />
+<ul>
+<li>Estrategias básicas para la comprensión y producción de textos.<br /></li>
+<li>Estrategias de planificación, organización y revisión de textos.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Bloque C. Interculturalidad:<br />Interés por conocer aspectos culturales de otros lugares.<br />Actitudes de respeto hacia la diversidad lingüística y cultural.<br /><strong></strong></li>
+</ul>
+<p><strong>🎯 Objetivos de etapa:</strong></p>
+<p>El proyecto contribuye al desarrollo de los objetivos de la etapa de Educación Primaria, en especial:</p>
+<ul>
+<li>Adquirir en, al menos, una lengua extranjera la competencia comunicativa básica que permita expresar y comprender mensajes sencillos.<br /></li>
+<li>Desarrollar hábitos de trabajo individual y de equipo, así como actitudes de esfuerzo y responsabilidad.<br /></li>
+<li>Utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales.<br /></li>
+<li>Iniciarse en el uso de las tecnologías de la información y la comunicación desarrollando un espíritu crítico.<br /></li>
+<li>Conocer y valorar su entorno cultural, mostrando respeto hacia la diversidad.</li>
+</ul>
+<p>Estos <strong>elementos curriculares</strong> se desarrollan a lo largo de la secuencia de actividades del proyecto, tal y como se refleja en la siguiente tabla de relación entre tareas y criterios de evaluación:</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778083087315-pguvwgiaj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>🔗 Relación de los elementos curriculares:</strong><br />El presente proyecto se desarrolla conforme al currículo del área de Lengua Extranjera (Inglés) para el tercer ciclo de Educación Primaria, integrando de forma coherente los criterios de evaluación, las competencias específicas, los saberes básicos y los objetivos de etapa establecidos en la normativa vigente.</p>\n<p><strong>🧠 Competencias específicas:</strong><br />El proyecto contribuye al desarrollo de las siguientes competencias específicas:</p>\n<ul>\n<li>Competencia específica 1:<br />Comprender el sentido general e información específica y predecible de textos orales, escritos y multimodales breves y sencillos, expresados de forma clara y en lengua estándar, haciendo uso de estrategias básicas y recurriendo, cuando sea necesario, a distintos tipos de apoyo.</li>\n<li>Competencia específica 2:<br />Producir textos orales y escritos breves y sencillos, de forma guiada, utilizando estructuras, léxico y recursos básicos, adecuados a la situación comunicativa.</li>\n<li>Competencia específica 3:<br />Interactuar con otras personas en situaciones comunicativas breves y sencillas, utilizando estrategias básicas de cortesía lingüística y cooperación.</li>\n<li>Competencia específica 5:<br />Desarrollar estrategias básicas que favorezcan el aprendizaje de la lengua extranjera, reflexionando sobre el propio proceso de aprendizaje.</li>\n<li>Competencia específica 6:<br />Valorar la diversidad lingüística y cultural, mostrando actitudes de respeto e interés hacia otras lenguas y culturas.</li>\n</ul>\n<p><strong>📚 Saberes básicos:</strong><br />De acuerdo con la normativa vigente, en este proyecto se trabajan los siguientes saberes básicos:</p>\n<ul>\n<li>Bloque A. Comunicación:<br />\n<ul>\n<li>Funciones comunicativas básicas adecuadas al ámbito y contexto comunicativo: describir experiencias, narrar hechos pasados, expresar opiniones.<br /></li>\n<li>Léxico de uso común relativo a experiencias personales, viajes, cultura y vida cotidiana.<br /></li>\n<li>Estructuras gramaticales básicas: uso del pasado simple (verbos regulares e irregulares), estructuras afirmativas, negativas e interrogativas.<br /></li>\n<li>Convenciones ortográficas básicas y uso adecuado de los signos de puntuación.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Bloque B. Plurilingüismo:<br />\n<ul>\n<li>Estrategias básicas para la comprensión y producción de textos.<br /></li>\n<li>Estrategias de planificación, organización y revisión de textos.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Bloque C. Interculturalidad:<br />Interés por conocer aspectos culturales de otros lugares.<br />Actitudes de respeto hacia la diversidad lingüística y cultural.<br /><strong></strong></li>\n</ul>\n<p><strong>🎯 Objetivos de etapa:</strong></p>\n<p>El proyecto contribuye al desarrollo de los objetivos de la etapa de Educación Primaria, en especial:</p>\n<ul>\n<li>Adquirir en, al menos, una lengua extranjera la competencia comunicativa básica que permita expresar y comprender mensajes sencillos.<br /></li>\n<li>Desarrollar hábitos de trabajo individual y de equipo, así como actitudes de esfuerzo y responsabilidad.<br /></li>\n<li>Utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales.<br /></li>\n<li>Iniciarse en el uso de las tecnologías de la información y la comunicación desarrollando un espíritu crítico.<br /></li>\n<li>Conocer y valorar su entorno cultural, mostrando respeto hacia la diversidad.</li>\n</ul>\n<p>Estos <strong>elementos curriculares</strong> se desarrollan a lo largo de la secuencia de actividades del proyecto, tal y como se refleja en la siguiente tabla de relación entre tareas y criterios de evaluación:</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778079365465-hvhkmk034</odePageId>
+      <odeBlockId>block-1778081538967-8s7llle44</odeBlockId>
+      <blockName>Criterios de evaluación (Tarea 6.1.):</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778079365465-hvhkmk034</odePageId>
+          <odeBlockId>block-1778081538967-8s7llle44</odeBlockId>
+          <odeIdeviceId>idevice-1778081538966-m036k7pgw</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1mhImL8ztkjAFzKrH6bFO-R4wKsgGqQzMGevQeOCe2WQ/edit?usp=sharing" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777999110341-6p9c3xqhq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación (Tarea 8.1.)</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación (Tarea 8.1.)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Instrumentos de evaluación (Tarea 8.1.)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777999110341-6p9c3xqhq</odePageId>
+      <odeBlockId>block-1778081765662-j32phugso</odeBlockId>
+      <blockName>Instrumentos de evaluación del proyecto</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777999110341-6p9c3xqhq</odePageId>
+          <odeBlockId>block-1778081765662-j32phugso</odeBlockId>
+          <odeIdeviceId>idevice-1778081765661-43li85qwn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto utilizaremos diferentes técnicas e instrumentos de evaluación para valorar tanto el proceso de aprendizaje como el producto final.</p>
+<p>👉 Apostamos por una <strong>evaluación continua</strong> y <strong>formativa</strong>, que permita mejorar poco a poco durante todo el proyecto.</p>
+<p> <br /><strong>🧠 ¿Cómo vamos a evaluar?:</strong><br />Utilizaremos distintas técnicas:</p>
+<ul>
+<li>👀 Observación sistemática.<br /></li>
+<li>📝 Análisis de las producciones del alumnado.<br /></li>
+<li>🗣️ Intercambios orales.<br /></li>
+<li>Y los siguientes instrumentos:
+<ul>
+<li>Lista de cotejo.</li>
+<li>Rúbrica de evaluación.</li>
+</ul>
+</li>
+</ul>
+<p> 📌 Ambos instrumentos se entregarán al inicio del proyecto para que sepáis qué se espera de vosotros.</p>
+<p><strong>🎯 ¿Para qué sirve la evaluación?</strong><br /></p>
+<ul>
+<li>Seguir el progreso del alumnado.<br /></li>
+<li>Detectar dificultades.<br /></li>
+<li>Mejorar el producto final.<br /></li>
+<li>Fomentar la reflexión y la autoevaluación.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778081765661-43li85qwn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto utilizaremos diferentes técnicas e instrumentos de evaluación para valorar tanto el proceso de aprendizaje como el producto final.</p>\n<p>👉 Apostamos por una <strong>evaluación continua</strong> y <strong>formativa</strong>, que permita mejorar poco a poco durante todo el proyecto.</p>\n<p> <br /><strong>🧠 ¿Cómo vamos a evaluar?:</strong><br />Utilizaremos distintas técnicas:</p>\n<ul>\n<li>👀 Observación sistemática.<br /></li>\n<li>📝 Análisis de las producciones del alumnado.<br /></li>\n<li>🗣️ Intercambios orales.<br /></li>\n<li>Y los siguientes instrumentos:\n<ul>\n<li>Lista de cotejo.</li>\n<li>Rúbrica de evaluación.</li>\n</ul>\n</li>\n</ul>\n<p> 📌 Ambos instrumentos se entregarán al inicio del proyecto para que sepáis qué se espera de vosotros.</p>\n<p><strong>🎯 ¿Para qué sirve la evaluación?</strong><br /></p>\n<ul>\n<li>Seguir el progreso del alumnado.<br /></li>\n<li>Detectar dificultades.<br /></li>\n<li>Mejorar el producto final.<br /></li>\n<li>Fomentar la reflexión y la autoevaluación.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777999110341-6p9c3xqhq</odePageId>
+      <odeBlockId>block-1778081815651-8bneujkql</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777999110341-6p9c3xqhq</odePageId>
+          <odeBlockId>block-1778081815651-8bneujkql</odeBlockId>
+          <odeIdeviceId>idevice-1778081815651-o95ettn36</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>🧩 ¿Para qué sirve?</strong><br />La lista de cotejo os ayudará a:</p>
+<ul>
+<li>Revisar vuestro trabajo.<br /></li>
+<li>Saber si vais por buen camino.<br /></li>
+<li>Mejorar antes de la entrega final.</li>
+</ul>
+<p>👉 Se utilizará principalmente en:</p>
+<ul>
+<li>Actividad 6 (planificación).</li>
+<li>Actividad 7 (creación del diario).</li>
+</ul>
+<p><strong> 📝 ¿Qué incluye?</strong><br />Se organiza en tres bloques:</p>
+<p><em>🗣️ Contenido lingüístico:</em><br /></p>
+<ul>
+<li>Uso correcto del pasado simple<br /></li>
+<li>Información sobre lugares y actividades<br /></li>
+<li>Organización de ideas<br /></li>
+<li>Vocabulario adecuado<br /><em></em></li>
+</ul>
+<p><em>💻 Producto digital</em><br /></p>
+<ul>
+<li>Creación de la presentación<br /></li>
+<li>Uso de imágenes<br /></li>
+<li>Estructura clara</li>
+</ul>
+<p><em>🎤 Exposición y revisión:</em><br /></p>
+<ul>
+<li>Preparación de la presentación.<br /></li>
+<li>Participación del grupo.</li>
+<li>Revisión final.</li>
+</ul>
+<p><strong> 📊 ¿Cómo se utiliza?</strong><br /></p>
+<ul>
+<li>Iréis marcando los ítems conforme avanzáis.<br /></li>
+<li>Os ayudará a ver vuestro progreso.<br /></li>
+<li>Permitirá mejorar antes de entregar.<br /></li>
+</ul>
+<p>👉 Favorece la autonomía y autorregulación.</p>
+<p style="text-align: justify;">A continuación se presenta la lista de cotejo diseñada para el proyecto Hop-on hop-off bus in Andalusia: Travel Diaries. </p>
+<p><img src="{{context_path}}/content/resources/Checkliststudents.jpg" width="645" height="861" alt="Lista de cotejo proyecto." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778081815651-o95ettn36","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>🧩 ¿Para qué sirve?</strong><br />La lista de cotejo os ayudará a:</p>\n<ul>\n<li>Revisar vuestro trabajo.<br /></li>\n<li>Saber si vais por buen camino.<br /></li>\n<li>Mejorar antes de la entrega final.</li>\n</ul>\n<p>👉 Se utilizará principalmente en:</p>\n<ul>\n<li>Actividad 6 (planificación).</li>\n<li>Actividad 7 (creación del diario).</li>\n</ul>\n<p><strong> 📝 ¿Qué incluye?</strong><br />Se organiza en tres bloques:</p>\n<p><em>🗣️ Contenido lingüístico:</em><br /></p>\n<ul>\n<li>Uso correcto del pasado simple<br /></li>\n<li>Información sobre lugares y actividades<br /></li>\n<li>Organización de ideas<br /></li>\n<li>Vocabulario adecuado<br /><em></em></li>\n</ul>\n<p><em>💻 Producto digital</em><br /></p>\n<ul>\n<li>Creación de la presentación<br /></li>\n<li>Uso de imágenes<br /></li>\n<li>Estructura clara</li>\n</ul>\n<p><em>🎤 Exposición y revisión:</em><br /></p>\n<ul>\n<li>Preparación de la presentación.<br /></li>\n<li>Participación del grupo.</li>\n<li>Revisión final.</li>\n</ul>\n<p><strong> 📊 ¿Cómo se utiliza?</strong><br /></p>\n<ul>\n<li>Iréis marcando los ítems conforme avanzáis.<br /></li>\n<li>Os ayudará a ver vuestro progreso.<br /></li>\n<li>Permitirá mejorar antes de entregar.<br /></li>\n</ul>\n<p>👉 Favorece la autonomía y autorregulación.</p>\n<p style=\"text-align: justify;\">A continuación se presenta la lista de cotejo diseñada para el proyecto Hop-on hop-off bus in Andalusia: Travel Diaries. </p>\n<p><img src=\"{{context_path}}/content/resources/Checkliststudents.jpg\" width=\"645\" height=\"861\" alt=\"Lista de cotejo proyecto.\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777999110341-6p9c3xqhq</odePageId>
+      <odeBlockId>block-1778081931210-tymkk336j</odeBlockId>
+      <blockName>Rúbrica de evaluación</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777999110341-6p9c3xqhq</odePageId>
+          <odeBlockId>block-1778081931210-tymkk336j</odeBlockId>
+          <odeIdeviceId>idevice-1778081931209-6h2qg9hg0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>🧩 ¿Para qué sirve?</strong><br />La rúbrica será utilizada por el docente para evaluar:</p>
+<ul>
+<li>El diario de viaje.<br /></li>
+<li>La presentación oral.<br /></li>
+<li>El trabajo en grupo.</li>
+</ul>
+<p>👉 Se aplicará principalmente en la Actividad 8.</p>
+<p> <br /><strong>📝 ¿Qué se evalúa?</strong><br /><em>🗣️ Contenido lingüístico:</em><br /></p>
+<ul>
+<li>Uso del pasado simple.<br /></li>
+<li>Corrección gramatical.</li>
+</ul>
+<p><em>💻 Producto digital:</em><br /></p>
+<ul>
+<li>Organización.<br /></li>
+<li>Claridad.<br /></li>
+<li>Presentación visual.<br /></li>
+</ul>
+<p><em>🎤 Presentación oral y trabajo en grupo:</em><br /></p>
+<ul>
+<li>Participación.<br /></li>
+<li>Comunicación.<br /></li>
+<li>Colaboración.<br /> </li>
+</ul>
+<p><strong>📊 ¿Cómo funciona?</strong></p>
+<ul>
+<li>Tiene diferentes niveles de logro.<br /></li>
+<li>Permite una evaluación clara y objetiva.</li>
+<li>Ayuda a entender qué se espera del trabajo.</li>
+</ul>
+<p><strong>🎯 ¿Para qué nos ayuda?</strong><br /></p>
+<ul>
+<li>Conocer nuestros puntos fuertes.<br /></li>
+<li>Mejorar los aspectos necesarios.<br /></li>
+<li>Recibir una retroalimentación clara.<br /></li>
+</ul>
+<p>👉 También favorece la reflexión sobre el aprendizaje.</p>
+<p style="text-align: justify;">A continuación se presenta la rúbrica de evaluación diseñada para el proyecto Hop-on hop-off bus in Andalusia: Travel Diaries.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_8epxvs8epxvs8epx.png" width="1264" height="842" alt="Rúbrica de evaluación." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778081931209-6h2qg9hg0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>🧩 ¿Para qué sirve?</strong><br />La rúbrica será utilizada por el docente para evaluar:</p>\n<ul>\n<li>El diario de viaje.<br /></li>\n<li>La presentación oral.<br /></li>\n<li>El trabajo en grupo.</li>\n</ul>\n<p>👉 Se aplicará principalmente en la Actividad 8.</p>\n<p> <br /><strong>📝 ¿Qué se evalúa?</strong><br /><em>🗣️ Contenido lingüístico:</em><br /></p>\n<ul>\n<li>Uso del pasado simple.<br /></li>\n<li>Corrección gramatical.</li>\n</ul>\n<p><em>💻 Producto digital:</em><br /></p>\n<ul>\n<li>Organización.<br /></li>\n<li>Claridad.<br /></li>\n<li>Presentación visual.<br /></li>\n</ul>\n<p><em>🎤 Presentación oral y trabajo en grupo:</em><br /></p>\n<ul>\n<li>Participación.<br /></li>\n<li>Comunicación.<br /></li>\n<li>Colaboración.<br /> </li>\n</ul>\n<p><strong>📊 ¿Cómo funciona?</strong></p>\n<ul>\n<li>Tiene diferentes niveles de logro.<br /></li>\n<li>Permite una evaluación clara y objetiva.</li>\n<li>Ayuda a entender qué se espera del trabajo.</li>\n</ul>\n<p><strong>🎯 ¿Para qué nos ayuda?</strong><br /></p>\n<ul>\n<li>Conocer nuestros puntos fuertes.<br /></li>\n<li>Mejorar los aspectos necesarios.<br /></li>\n<li>Recibir una retroalimentación clara.<br /></li>\n</ul>\n<p>👉 También favorece la reflexión sobre el aprendizaje.</p>\n<p style=\"text-align: justify;\">A continuación se presenta la rúbrica de evaluación diseñada para el proyecto Hop-on hop-off bus in Andalusia: Travel Diaries.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_8epxvs8epxvs8epx.png\" width=\"1264\" height=\"842\" alt=\"Rúbrica de evaluación.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777917919020-0rxv6ushp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos y archivo fuente</pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y archivo fuente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Créditos y archivo fuente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777917919020-0rxv6ushp</odePageId>
+      <odeBlockId>block-1778082454685-5rvvl9l1s</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917919020-0rxv6ushp</odePageId>
+          <odeBlockId>block-1778082454685-5rvvl9l1s</odeBlockId>
+          <odeIdeviceId>idevice-1778082454683-xy6l74kav</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA. Hop-on hop-off bus in Andalusia!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Proyecto en formato SdA orientado al desarrollo de la competencia comunicativa en lengua inglesa a través de un viaje virtual por Andalucía. Actividad contextualizada dentro del curso de formación en Competencia Digital Docente nivel B2.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María Belén Vázquez Coronas</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
